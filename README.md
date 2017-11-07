@@ -1,3 +1,4 @@
 # practice
 for my own educational purposes
-I am creating a second branch and committing edits to read-me file.
+Creating a second branch and committing edits to read-me file.
+Performing 3rd edit.  Second edit not merged to master, Pull Request pending.
